@@ -29,6 +29,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuranjanjain&show_icons=true&locale=en" alt="anuranjanjain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuranjanjain&" alt="anuranjanjain" /></p>
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@anuranjanjain/30-nites-of-code)  
-  ![@anuranjanjain #30NitesOfCode](https://www.codedex.io/api/petStatus?user=anuranjanjain)
+<h2 color="red"> #30NitesOfCode: </h2>
+</div>
+<p align="center">
+  <a href="https://www.codedex.io/@Anuranjanjain/30-nites-of-code">Check out my progress!</a>
+</p>
+  <br>
+  <img align="center" src="https://www.codedex.io/api/petStatus?user=Anuranjanjain" alt="@Anuranjanjain #30NitesOfCode">
+</div>
