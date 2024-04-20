@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuranjanjain&show_icons=true&locale=en" alt="anuranjanjain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuranjanjain&" alt="anuranjanjain" /></p>
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@anuranjanjain/30-nites-of-code)  
+  ![@anuranjanjain #30NitesOfCode](https://www.codedex.io/api/petStatus?user=anuranjanjain)
