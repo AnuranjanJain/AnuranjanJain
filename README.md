@@ -36,5 +36,5 @@
 </p>
   <br>
   <img align="center" src="https://www.codedex.io/api/petStatus?user=Anuranjanjain" alt="@Anuranjanjain #30NitesOfCode">
-  <img align="center" src="https://www.codedex.io/api/petStatus?user=AnuranjanJain" alt="2nd pet">
+  <img align="center" src="/images/code-nights/evolved-happy-dragon.gif" alt="1st pet image">
 </div>
