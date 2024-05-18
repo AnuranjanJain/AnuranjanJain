@@ -35,6 +35,6 @@
   <a href="https://www.codedex.io/@Anuranjanjain/30-nites-of-code">Check out my progress!</a>
 </p>
   <br>
-  <img align="center" src="https://www.codedex.io/api/petStatus?user=Anuranjanjain" alt="@Anuranjanjain #30NitesOfCode">
-  <img align="center" src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" alt="1st pet image">
+  <img src="https://www.codedex.io/api/petStatus?user=Anuranjanjain" alt="@Anuranjanjain #30NitesOfCode">
+  <img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" alt="1st pet image">
 </div>
