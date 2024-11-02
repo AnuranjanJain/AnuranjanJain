@@ -30,6 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuranjanjain&" alt="anuranjanjain" /></p>
 
+##GSSOC2024
 
 <p>
   <b>GSSOC(24) Badges 🪶</b><br>
@@ -46,12 +47,25 @@
 </div>
 </p>
 
-<h2 color="red"> #30NitesOfCode: </h2>
+
+##Hacktoberfest2024
+
+ <h1>Hacktoberfest-2024</h1>
+ 
+[![An image of @Anuranjanjain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anuranjanjain)](https://holopin.io/@anuranjanjain)
 </div>
+
+
+##30NitesOfCode
+<h2 color="red"> #30NitesOfCode: </h2>
+<div>
 <p align="center">
-  <a href="https://www.codedex.io/@Anuranjanjain/30-nites-of-code">Check out my progress!</a>
+<a href="https://www.codedex.io/@Anuranjanjain/30-nites-of-code">Check out my progress!</a>
 </p>
-  <br>
+<br>
   <img src="https://www.codedex.io/api/petStatus?user=Anuranjanjain" alt="@Anuranjanjain #30NitesOfCode">
   <img src="https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif" alt="1st pet image">
 </div>
+
+
+
