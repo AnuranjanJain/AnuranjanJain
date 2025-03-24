@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/jainanuranjan" target="blank"><img src="https://img.shields.io/twitter/follow/jainanuranjan?logo=twitter&style=for-the-badge" alt="Anuranjan Jain" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Devlopement**
+- 🌱 I’m currently learning **AI and ML Devlopement**
 
 - 📫 How to reach me **weebxaj@gmail.com**
 
