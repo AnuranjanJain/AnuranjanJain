@@ -8,14 +8,13 @@
 
 </div>
 
-<img align="right" alt="Coding" width="500" height="790" src="https://user-images.githubusercontent.com/8391493/205162876-565ca6f5-391f-4167-9752-5aa737dc4b72.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 🚀 About Me
 
 - 🎓 **Computer Science Student** at **VIT College**
 - 🔭 Currently working on **AI/ML Projects & Android Development**
 - 🌱 Learning **Advanced Machine Learning & Cloud Technologies**
-- 🎯 Passionate about **Competitive Programming** on Codeforces
 - 🤝 Open to collaborating on **innovative tech projects**
 - 💡 Interested in **Hackathons** and **Open Source**
 - 🇯🇵 Learning **Japanese** - 日本語を勉強しています！
