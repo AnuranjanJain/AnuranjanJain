@@ -1,14 +1,25 @@
 
 <img width="1696" height="470" alt="Gemini_Generated_Image_xfg7foxfg7foxfg7" src="https://github.com/user-attachments/assets/95b49853-0dc5-4690-a50a-be0f3dcd7db2" />
 
-<div align="right">
-  
-  <!-- Animated Typing Header -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" width="70%">
+        
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast+🤖;Competitive+Programmer+💻;Full+Stack+Developer+🚀;Open+Source+Contributor+🌟;Always+Learning+Something+New+📚&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22)](https://github.com/anuranjanjain)
-
+      </td>
+      <td align="right" width="50%">
+        <a href="https://archlinux.org/">
+          <img src="https://img.shields.io/badge/I_use-Arch_btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="I use Arch btw"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
+
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 
 ### 🚀 About Me
 
@@ -20,6 +31,7 @@
 - 🇯🇵 Learning **Japanese** - 日本語を勉強しています！
 - ⚡ Fun fact: I love combining **AI** with **practical solutions**
 - 📫 Reach me: **aj.anuranjan@gmail.com**
+
 
 <br clear="both">
 
@@ -130,7 +142,8 @@
   
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/anuranjanjain)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/anuranjanjain)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/anuranjanjain)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29975388/wizard-king)
+[![Medium](https://img.shields.io/badge/Read_on-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wizardking.aj)
 
 </div>
 </div>
